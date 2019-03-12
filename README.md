@@ -1,3 +1,2 @@
 # Algorithms_Java
-leetcode result with Java
-final result in mainline branch
+Leetcode algorithm Java results in mainline branch
