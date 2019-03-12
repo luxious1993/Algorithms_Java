@@ -1,4 +1,4 @@
-public class leetcode0005LongestPalindrome {
+public class Leetcode0005LongestPalindrome {
     //special DP
     private int start = 0;
     private int max = 1;
