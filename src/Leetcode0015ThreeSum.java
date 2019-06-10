@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Leetcode0014ThreeSum {
+public class Leetcode0015ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if (nums == null || nums.length <= 2) {
